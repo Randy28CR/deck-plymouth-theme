@@ -33,7 +33,7 @@ sudo rpm-ostree install plymouth-plugin-script
 
 ---
 
-### 3. Install the theme
+### 3. Install the theme (open terminal/konsole in the folder .rpm is located)
 
 ```bash
 sudo rpm-ostree install ./deck-plymouth-1.0-1.fc42.noarch.rpm
